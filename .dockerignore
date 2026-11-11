@@ -1,0 +1,10 @@
+.env
+.git
+.idea
+.vscode
+storage/logs/*
+storage/backups/*
+vendor/
+# Local verification artifacts (screenshots can contain member data)
+shots/
+.playwright-mcp/
